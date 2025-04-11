@@ -51,4 +51,4 @@ README TO USE THIS PACKAGE
 ## Switch Requirements:
 
 1. **IOS Version As Mentioned in Documentation**
-2. **TAR Bunle Available in Switch Flash**
+2. **TAR Bundle Available in Switch Flash**
