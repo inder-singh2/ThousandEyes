@@ -41,6 +41,8 @@ README TO USE THIS PACKAGE
 
 ## Python Libraries:
 
+**pip install -r requirements.txt**
+
 1. **Pandas**
 2. **Openpyxl**
 3. **Paramiko**
