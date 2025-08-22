@@ -20,7 +20,7 @@ def configure_switch(ip, username, password, token, guest_ip, vlan, netmask, def
             "configure terminal",
             "iox",
             "end",
-            f"app-hosting install appid TE package flash:thousandeyes-enterprise-agent-5.0.1.cisco.tar",
+            f"app-hosting install appid TE package flash:thousandeyes-enterprise-agent-5.1.1.cisco.tar",
             "configure terminal",
             "interface GigabitEthernet1/0/13",
             "description Uplink MGMT",
@@ -92,4 +92,5 @@ def main():
         print("No switch details found. Please check your Excel file.")
 
 if __name__ == "__main__":
+
     main()
